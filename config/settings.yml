@@ -1,0 +1,2 @@
+settings:
+  omdb_api_key: ENV.fetch('OMDB_API_KEY', nil)
